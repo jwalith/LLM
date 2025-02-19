@@ -1,14 +1,6 @@
-
-
-Utilized LLM, Lang chain, and Ollama parsing techniques to extract structured data from historical documents, ensuring accuracy and consistency in data representation.
-
-Conducted comprehensive analysis on parsed historical documents to uncover valuable insights, facilitating deeper understanding of historical contexts and trends
-
-
-
 # Historical Document Analysis
 
-Welcome to the **Historical Document Analysis** project! This project leverages cutting-edge machine learning and natural language processing (NLP) techniques to analyze and extract valuable insights from historical apprenticeship agreements. By automating the extraction of structured data from unstructured text, this project aims to uncover patterns, trends, and key information that would be difficult to obtain manually.
+This project leverages Large Language Models and natural language processing (NLP) techniques to analyze and extract valuable insights from historical apprenticeship agreements. By automating the extraction of structured data from unstructured text, this project aims to uncover patterns, trends, and key information that would be difficult to obtain manually.
 
 🚀 **Project Overview**
 
@@ -124,12 +116,3 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-📧 **Contact**
-
-For any questions or feedback, please reach out to:
-
-Your Name
-Email: your.email@example.com
-GitHub: yourusername
-
-Thank you for exploring the **Historical Document Analysis** project! We hope this tool helps you uncover valuable insights from historical documents with ease. 🚀
