@@ -103,16 +103,5 @@ The project is organized as follows:
 
 4.  Follow the instructions in the notebook to load the data, run the analysis, and visualize the results.
 
-🤝 **Contributing**
 
-We welcome contributions from the community! If you'd like to contribute, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bugfix.
-3.  Commit your changes.
-4.  Submit a pull request.
-
-📜 **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
